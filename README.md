@@ -1,6 +1,8 @@
 # Calculate distance of 2 points using Homography Transform
 
-_By: Fitra Rahmamuliani 1227003_
+_By: Fitra Rahmamuliani_
+
+This program made for Image Processing Homework.
 
 This program made using __Python3__ with some __Python3__ function. Please make sure to run this program using __Python3__. 
 
